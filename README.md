@@ -13,16 +13,18 @@ e exibe uma mensagem de confirmação personalizada.
 ##
 
 ## ✅ Funcionalidades
-### 👤 Usuário
+### 👤 Usuário:
 - Entrada de nome completo;
 - Entrada do número da agência;
 - Entrada do número da conta;
 - Entrada do saldo inicial da conta.
 
-### 📄 Saída Formatada
+### 📄 Saída Formatada:
 - Exibição de mensagem confirmando a criação da conta com todos os dados inseridos.
 
-### 🔐 Validações
+##
+
+## 🔐 Validações
 - Leitura de strings e números com Scanner;
 - Impressão formatada com System.out.printf para valores monetários (duas casas decimais).
 
