@@ -36,7 +36,7 @@ e exibe uma mensagem de confirmação personalizada.
 ##
 
 ## ⚙️ Como Usar
-- Clone ou copie o repositório para sua máquina;
-- Abra o projeto no IntelliJ IDEA;
-- Execute a classe ContaTerminal; 
-- Siga as instruções no terminal, informando os dados solicitados.
+1. Clone ou copie o repositório para sua máquina;
+2. Abra o projeto no IntelliJ IDEA;
+3. Execute a classe ContaTerminal; 
+4. Siga as instruções no terminal, informando os dados solicitados.
